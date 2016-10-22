@@ -1,2 +1,2 @@
 EvitaChan
-<img src="C:\Users\evita\Documents\GitHub\EvitaChan" alt="松鼠">
+<img src="C:\Users\evita\Documents\GitHub\EvitaChan\image" alt="松鼠">
